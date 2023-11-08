@@ -1,5 +1,12 @@
-### Hi there 👋
+# 👋<mark> Salut tout le monde !</mark>👋
 
+Avec plus de 10 ans d'expérience dans le domaine du digital, notamment en tant que vidéaste et développeur de solutions immersives, j'ai acquis une solide autonomie, une curiosité insatiable et un savoir-faire créatif.
+
+Avec mon esprit dynamique et ma soif de connaissances, je me suis rapidement approprié les dernières technologies et les langages de programmation essentiels tels que **HTML, SASS** et **JavaScript**. Jongler avec ces outils pour donner vie à des interfaces interactives et intuitives est un véritable plaisir pour moi.
+
+> Avant ma reconversion, j'ai eu l'opportunité de fonder une SCOP, où j'ai pu mettre en pratique mes compétences en gestion de projet, levée de fonds, marketing et communication. En tant que gérant et responsable technique, j'ai travaillé en équipe pour concevoir des projets audiovisuels et développer des applications de réalité virtuelle, qui ont été plusieurs fois récompensées pour leur innovation et leur originalité.
+
+Mon parcours est le reflet de ma **volonté constante de me surpasser et de m'enrichir**. Aujourd'hui, je suis prêt à mettre à profit mon énergie, ma créativité et mes compétences techniques en front-end pour créer des expériences web captivantes.
 <!--
 **aurelienLRY/aurelienLRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
