@@ -17,6 +17,10 @@ Mon parcours est le reflet de ma **volonté constante de me surpasser et de m'en
 ![5a00d800-a518-4dce-b9e4-a0dd766d680a 1](https://github.com/aurelienLRY/aurelienLRY/assets/83220559/a0432240-9ae7-4a9c-b386-cae183da7771)
 
 
+## Mes futurs défis : 
+- Apprendre/Comprendre node.js;
+- Coder un ERP pour l'école associative de ma fille ; 
+
 
 <!--
 **aurelienLRY/aurelienLRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
