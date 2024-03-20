@@ -14,8 +14,7 @@ Mon parcours est le reflet de ma **volonté constante de me surpasser et de m'en
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
-![5a00d800-a518-4dce-b9e4-a0dd766d680a 1](https://github.com/aurelienLRY/aurelienLRY/assets/83220559/a0432240-9ae7-4a9c-b386-cae183da7771)
-
+<a href="#"><img src="https://wakatime.com/share/@dfdaf0d3-5ae8-4997-92c1-563d24f5d7d4/4e9cfb1f-68ad-429c-8e76-e66d33f072cd.png" /></a>
 
 ## Mes futurs défis : 
 - Apprendre/Comprendre node.js;
