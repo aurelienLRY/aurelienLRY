@@ -1,3 +1,4 @@
+![Linkedin](https://github.com/aurelienLRY/aurelienLRY/assets/83220559/b14a90c6-d1a0-4b6e-a38b-fc6ef1547ada)
 # 👋<mark> Salut tout le monde !</mark>👋
 
 Avec plus de 10 ans d'expérience dans le domaine du digital, notamment en tant que vidéaste et développeur de solutions immersives, j'ai acquis une solide autonomie, une curiosité insatiable et un savoir-faire créatif.
@@ -17,8 +18,8 @@ Mon parcours est le reflet de ma **volonté constante de me surpasser et de m'en
 <a href="#"><img src="https://wakatime.com/share/@dfdaf0d3-5ae8-4997-92c1-563d24f5d7d4/4e9cfb1f-68ad-429c-8e76-e66d33f072cd.png" /></a>
 
 ## Mes futurs défis : 
-- Apprendre/Comprendre node.js;
-- Coder un ERP pour l'école associative de ma fille ; 
+- Apprendre/Comprendre Next.JS;
+- Finir un ERP pour l'école associative ; 
 
 
 <!--
