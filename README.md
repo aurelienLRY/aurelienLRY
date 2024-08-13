@@ -1,7 +1,7 @@
-![Linkedin](https://github.com/aurelienLRY/aurelienLRY/assets/83220559/b14a90c6-d1a0-4b6e-a38b-fc6ef1547ada)
-# 👋<mark> Salut tout le monde !</mark>👋
+![Linkedin](https://github.com/user-attachments/assets/dfe4183f-ebdb-45ab-b222-9772532f8d33)
+# 👋<mark> Bonjour !</mark>👋
 
-Avec plus de 10 ans d'expérience dans le domaine du digital, notamment en tant que vidéaste et développeur de solutions immersives, j'ai acquis une solide autonomie, une curiosité insatiable et un savoir-faire créatif.
+Avec plus de 15 ans d'expérience dans le domaine du digital, notamment en tant que vidéaste et développeur de solutions immersives, j'ai acquis une solide autonomie, une curiosité insatiable et un savoir-faire créatif.
 
 Avec mon esprit dynamique et ma soif de connaissances, je me suis rapidement approprié les dernières technologies et les langages de programmation essentiels tels que **HTML, SASS** et **JavaScript**. Jongler avec ces outils pour donner vie à des interfaces interactives et intuitives est un véritable plaisir pour moi.
 
