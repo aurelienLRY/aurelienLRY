@@ -1,38 +1,39 @@
 ![Linkedin](https://github.com/user-attachments/assets/dfe4183f-ebdb-45ab-b222-9772532f8d33)
-# 👋<mark> Bonjour !</mark>👋
 
-Avec plus de 15 ans d'expérience dans le domaine du digital, notamment en tant que vidéaste et développeur de solutions immersives, j'ai acquis une solide autonomie, une curiosité insatiable et un savoir-faire créatif.
+ <h1 align='center'> Aurélien Leroy | Développeur Front-End </h1>
 
-Avec mon esprit dynamique et ma soif de connaissances, je me suis rapidement approprié les dernières technologies et les langages de programmation essentiels tels que **HTML, SASS** et **JavaScript**. Jongler avec ces outils pour donner vie à des interfaces interactives et intuitives est un véritable plaisir pour moi.
+Je me spécialise dans le développement web avec les technologies React et Next.js. Mon GitHub est un portfolio de projets en full-stack, où vous pouvez découvrir des solutions avancées que j'ai développées.
 
-> Avant ma reconversion, j'ai eu l'opportunité de fonder une SCOP, où j'ai pu mettre en pratique mes compétences en gestion de projet, levée de fonds, marketing et communication. En tant que gérant et responsable technique, j'ai travaillé en équipe pour concevoir des projets audiovisuels et développer des applications de réalité virtuelle, qui ont été plusieurs fois récompensées pour leur innovation et leur originalité.
+## Voici quelques exemples :
 
-Mon parcours est le reflet de ma **volonté constante de me surpasser et de m'enrichir**. Aujourd'hui, je suis prêt à mettre à profit mon énergie, ma créativité et mes compétences techniques en front-end pour créer des expériences web captivantes.
+- ERP pour écoles associatives : Une application Next.js, optimisée pour la gestion des processus administratifs.
+  
+- Réservation d'activités outdoor : Développement de la vitrine avec Next.js et gestion du back-office avec la stack MERN.
+
+## Compétences clés :
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![NEXTJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![mongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![ViteTest](https://img.shields.io/badge/Vitest-%236E9F18?style=for-the-badge&logo=Vitest&logoColor=%23fcd703)
+![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 
-
-## Mes compétences 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JSS](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
 <a href="#"><img src="https://wakatime.com/share/@dfdaf0d3-5ae8-4997-92c1-563d24f5d7d4/4e9cfb1f-68ad-429c-8e76-e66d33f072cd.png" /></a>
 
-## Mes futurs défis : 
-- Apprendre/Comprendre Next.JS;
-- Finir un ERP pour l'école associative ; 
+
+Explorez les projets ci-dessous et suivez mes contributions dans le domaine du développement web et de la cybersécurité !
 
 
-<!--
-**aurelienLRY/aurelienLRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
