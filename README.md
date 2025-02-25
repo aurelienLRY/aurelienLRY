@@ -33,7 +33,10 @@ Je suis un développeur web avec un focus sur Next.js, React et TypeScript, anim
 ![JSS](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-
+## 𝐂𝐨𝐧𝐭𝐚𝐜𝐭𝐞𝐳-𝐦𝐨𝐢
+<p>📬 leroyaurelien11@gmail.com <br>
+🌐 Portfolio : https://leroyaurelien.com
+</p>
 
 Explorez les projets ci-dessous et suivez mes contributions dans le domaine du développement web!
 
