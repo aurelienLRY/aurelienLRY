@@ -1,14 +1,16 @@
-![Linkedin](https://github.com/user-attachments/assets/dfe4183f-ebdb-45ab-b222-9772532f8d33)
+![Linkedin](https://github.com/user-attachments/assets/e8f44c91-0088-40fe-b586-107352c321b4)
 
- <h1 align='center'> Aurélien Leroy | Développeur Front-End </h1>
 
-Je me spécialise dans le développement web avec les technologies React et Next.js. Mon GitHub est un portfolio de projets en full-stack, où vous pouvez découvrir des solutions avancées que j'ai développées.
+ <h1 align='center'> Aurélien Leroy - Développeur Web Frontend | Expertise Full Stack </h1>
 
-## Voici quelques exemples :
+<p> 𝐃𝐞́𝐯𝐞𝐥𝐨𝐩𝐩𝐞𝐮𝐫 𝐖𝐞𝐛 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐧𝐞́ 𝐞𝐭 𝐏𝐨𝐥𝐲𝐯𝐚𝐥𝐞𝐧𝐭 <br>
+Je suis un développeur web avec un focus sur Next.js, React et TypeScript, animé par une passion pour les projets innovants et à impact positif. Curieux, autodidacte et passionné par la tech, ma transition vers le développement web s’est imposée naturellement en 2020.
+</p>
 
-- ERP pour écoles associatives : Une application Next.js, optimisée pour la gestion des processus administratifs.
-  
-- Réservation d'activités outdoor : Développement de la vitrine avec Next.js et gestion du back-office avec la stack MERN.
+<p>
+👉 𝐌𝐨𝐧 𝐚𝐩𝐩𝐫𝐨𝐜𝐡𝐞 : Toujours apprendre, expérimenter et construire des solutions qui améliorent le quotidien. <br>
+</p>
+
 
 ## Compétences clés :
 
@@ -31,9 +33,8 @@ Je me spécialise dans le développement web avec les technologies React et Next
 ![JSS](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-<a href="#"><img src="https://wakatime.com/share/@dfdaf0d3-5ae8-4997-92c1-563d24f5d7d4/4e9cfb1f-68ad-429c-8e76-e66d33f072cd.png" /></a>
 
 
-Explorez les projets ci-dessous et suivez mes contributions dans le domaine du développement web et de la cybersécurité !
+Explorez les projets ci-dessous et suivez mes contributions dans le domaine du développement web!
 
 
